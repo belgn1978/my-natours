@@ -8,10 +8,12 @@
 @import "./base/typography";
 @import "./base/utilities";
 
-@import "./compondnts/button";
-@import "./compondnts/card";
-@import "./compondnts/composition";
-@import "./compondnts/feature-box";
+@import "./components/button";
+@import "./components/card";
+@import "./components/composition";
+@import "./components/feature-box";
+@import "./components/story";
+@import "./components/bg-video";
 
 @import "./layout/grid";
 @import "./layout/header";
